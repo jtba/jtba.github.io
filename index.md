@@ -14,8 +14,8 @@ I'm lazy, but in a productive way. Disenchanted by the dozens of applications we
 * Track releases as they are occuring
 * Suspend/Activate traffic to specific application instances
 
-<img src="https://github.com/jtba/jtba.github.io/blob/master/images/maaportal.png"/>
-![image](https://github.com/jtba/jtba.github.io/blob/master/images/maaportal.png)
+<img src="/images/maaportal.png"/>
+![image](images/maaportal.png)
 ![image](https://github.com/jtba/jtba.github.io/blob/master/images/maaportal2.png)
 
 ### Praxis
