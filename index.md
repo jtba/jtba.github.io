@@ -27,8 +27,7 @@ Before DevOps was a thing, I developed an application with the goal of allowing 
 * Creation of F5 VIP's, Pool's, and Members
 * Configure applications via JSON
 
-<img src="{{site.github.url}}/images/praxis.png"/>
-![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis.png)
+![image]({{ site.github.url }}}/images/praxis.png)
 ![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis1.png)
 ![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis2.png)
 ![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis3.png)
