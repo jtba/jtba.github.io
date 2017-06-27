@@ -14,8 +14,8 @@ I'm lazy, but in a productive way. Disenchanted by the dozens of applications we
 * Track releases as they are occuring
 * Suspend/Activate traffic to specific application instances
 
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/maaportal.png)
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/maaportal2.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/maaportal.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/maaportal2.png)
 
 ### Praxis
 **_Create/Deploy/Configure with a click of a button_**
@@ -27,10 +27,10 @@ Before DevOps was a thing, I developed an application with the goal of allowing 
 * Creation of F5 VIP's, Pool's, and Members
 * Configure applications via JSON
 
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/praxis.png)
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/praxis1.png)
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/praxis2.png)
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/praxis3.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis1.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis2.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/praxis3.png)
 
 ### Grafana Dashboards
 **_The real power of these dashboards are the hand crafted API's using NodeJS_**
@@ -42,7 +42,7 @@ I've discovered quick wins by leveraging Grafana and ElasticSearch to graph time
 * SOAP
 * REST
 
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/dashboards.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/dashboards.png)
 
 ### [Snowball](https://github.com/jtba/snowball)
 **_Destroy your debt by using the snowball method_**
@@ -54,4 +54,4 @@ Still early in development, the Snowball application (soon to be known as Budget
 * View payoff predictions by switching between different strategies
 * Setup your own custom budget 
 
-![screenshot](https://github.com/jtba/jtba.github.io/blob/master/images/snowball.png)
+![image](https://github.com/jtba/jtba.github.io/blob/master/images/snowball.png)
