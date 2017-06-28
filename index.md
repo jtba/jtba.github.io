@@ -3,20 +3,20 @@
 Below you can find screenshots of applications I've created and code links to some of my personal projects. Many projects are still in early stages and some are experimental.
 
 ### F5 Cluster Manager
-**_Easily manage a single F5 instance or multiple instances_**
+**_Easily manage a single F5 device or multiple devices_**
 
-Faced with a vendor UI that did not meet the user needs of daily interaction with large amounts of instances, I created the F5 Cluster Manager. This applications provides the following benefits: 
+Faced with a vendor UI that did not meet the user needs of daily interaction with large groups of instances, I created the F5 Cluster Manager. This applications provides the following benefits: 
 
 * Avoid the need to drill down into individual groups to easily see the cluster status of the individual group members
-* Quickly enable/disable group members by dragging your mouse over the members you want to disable
+* Quickly enable/disable group members by dragging your mouse over the members you want to disable/enable
 * Manage group members across multiple F5 devices
 
-Check out the code that made this happen below:
+**Check out the code that made this happen below:**
 
 * [Frontend Code](https://github.com/jtba/f5mgmt_frontend)
 * [Backend Code](https://github.com/jtba/f5mgmt_backend)
 
-![image](images/f5mgmt_frontend.png)
+![image](images/f5mgmt_frontend1.png)
 
 ### Team Portal
 **_All operation tasks in a single application_**
@@ -36,7 +36,7 @@ I'm lazy, but in a productive way. Disenchanted by the dozens of applications we
 ### Praxis
 **_Create/Deploy/Configure with a click of a button_**
 
-Before DevOps was a thing, I developed an application with the goal of allowing any user to easily specify build templates via a GUI which is then handed to a PHP middleware that orchestrates the following:
+Around the time DevOps first became known, I co-developed an application with the goal of allowing any user to easily specify build templates via a GUI which is then handed to a PHP middleware that orchestrates the following:
 
 * Creation of a Linux virtual machine by talking to VCenter
 * Deployment of applications (Apache, Nginx, Tomcat, webMethods) utilizing Chef
@@ -59,6 +59,7 @@ I've discovered quick wins by leveraging Grafana and ElasticSearch to graph time
 * Teradata
 * SOAP
 * REST
+* Kafka
 
 ![image](images/dashboards.png)
 
