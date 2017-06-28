@@ -1,4 +1,4 @@
-## My Portfolio
+## [Crushing it](https://www.youtube.com/watch?v=E3kP2A80KIw) since 2006
 
 Below you can find screenshots of applications I've created and code links to some of my personal projects. Many projects are still in early stages and some are experimental.
 
@@ -33,7 +33,7 @@ Before DevOps was a thing, I developed an application with the goal of allowing 
 ![image](images/praxis3.png)
 
 ### Grafana Dashboards
-**_The real power of these dashboards are the hand crafted API's using NodeJS_**
+**_The real power of these dashboards are in the hand crafted API's powered by NodeJS_**
 
 I've discovered quick wins by leveraging Grafana and ElasticSearch to graph timeseries data. This allowed for me to focus on creating several NodeJS services that integrate with the following technologies: 
 
@@ -44,10 +44,10 @@ I've discovered quick wins by leveraging Grafana and ElasticSearch to graph time
 
 ![image](images/dashboards.png)
 
-### [Snowball](https://github.com/jtba/snowball)
+### [Debt Snowball App](https://github.com/jtba/snowball) ([_View Code_](https://github.com/jtba/snowball))
 **_Destroy your debt by using the snowball method_**
 
-Still early in development, the Snowball application (soon to be known as Budget Co-Pilot) is being created to help individuals achieve zero debt by the following features:
+Still early in development, the Snowball application (soon to be known as Budget Co-Pilot) is being created to help individuals achieve zero debt by utilizing the following features:
 
 * Track debt payoff progress
 * Share your profile with a friend for accountability
@@ -55,3 +55,10 @@ Still early in development, the Snowball application (soon to be known as Budget
 * Setup your own custom budget 
 
 ![image](images/snowball.png)
+
+### [Jeopardy Game](https://github.com/jtba/Jeopardy) ([_View Code_](https://github.com/jtba/Jeopardy))
+**_Quick and Simple Jeopardy Game using HTML/CSS/Angular_**
+
+Developed overnight to support a team event, the Jeopardy game was a quick way to play amoungst 4 teams for the highest score. The game is purely javscript/frontend driven without the need for a backend.
+
+![image](images/jeopardy.png)
