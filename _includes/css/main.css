@@ -308,10 +308,10 @@ section.success {
     resize: none;
 }
 
-.floating-label-form-group :-ms-input-placeholder,
-.floating-label-form-group ::-webkit-input-placeholder,
-.floating-label-form-group :-moz-placeholder,
-.floating-label-form-group ::-moz-placeholder
+.form-control :-ms-input-placeholder,
+.form-control ::-webkit-input-placeholder,
+.form-control :-moz-placeholder,
+.form-control ::-moz-placeholder
 {
     color:#fff;
 }
