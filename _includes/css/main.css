@@ -269,6 +269,24 @@ section.success {
     background: #fff;
 }
 
+.btn-dark-outline {
+    margin-top: 15px;
+    border: solid 2px #18bc9c;
+    font-size: 20px;
+    color: #18bc9c;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.btn-dark-outline:hover,
+.btn-dark-outline:focus,
+.btn-dark-outline:active,
+.btn-dark-outline.active {
+    border: solid 2px #18bc9c;
+    color: #fff;
+    background: #18bc9c;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -288,6 +306,14 @@ section.success {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+}
+
+.floating-label-form-group :-ms-input-placeholder,
+.floating-label-form-group ::-webkit-input-placeholder,
+.floating-label-form-group :-moz-placeholder,
+.floating-label-form-group ::-moz-placeholder
+{
+    color:#fff;
 }
 
 .floating-label-form-group label {
