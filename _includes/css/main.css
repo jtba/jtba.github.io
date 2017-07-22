@@ -309,21 +309,21 @@ section.success {
 }
 /* Comment out if the contact form is not using a dark background */
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
-    color:    #fff;
+    color:    #fff !important;
 }
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-   color:    #fff;
-   opacity:  1;
+   color:    #fff !important;
+   opacity:  1 !important;
 }
 ::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #fff;
-   opacity:  1;
+   color:    #fff !important;
+   opacity:  1 !important;
 }
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
-   color:    #fff;
+   color:    #fff !important;
 }
 ::-ms-input-placeholder { /* Microsoft Edge */
-   color:    #fff;
+   color:    #fff !important;
 }
 
 .floating-label-form-group label {
