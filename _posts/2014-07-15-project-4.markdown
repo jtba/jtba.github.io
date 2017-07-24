@@ -1,12 +1,25 @@
 ---
 layout: default
+title: Grafana Dashboards
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: April 2016
+img: dashboards.png
+port_img: dashboards.png
+alt: Dashboards
+project-date: 2016
+client: Operations, Executives, Call Centers
+category: API Development
+description: <h3>The real power of these dashboards are in the hand crafted API's powered by NodeJS</h3> 
 
 ---
+I've discovered quick wins by leveraging Grafana and ElasticSearch to graph time series data. This allowed for me to focus on creating several NodeJS services that integrate with various technologies.
+
+<h4>Integrated Technologies</h4>
+* Oracle
+* Teradata
+* SOAP
+* REST
+* Kafka
+
+<h4>Screenshots</h4>
+<img src='img/portfolio/dashboards.png' class='img-responsive img-centered'/>

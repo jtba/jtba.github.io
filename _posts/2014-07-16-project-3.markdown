@@ -1,12 +1,29 @@
 ---
 layout: default
+title: Praxis
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: April 2014
+img: praxis_1.png
+port_img: praxis_1.png
+alt: Praxis
+project-date: 2014
+client: Development and Operations
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <h3>Create/Deploy/Configure with a click of a button</h3> 
 
 ---
+Around the time DevOps first became known, I co-developed an application with the goal of allowing any user to easily specify build templates via a GUI which is then handed to a PHP middleware that addresses orchestration.
+
+<h4>Orchestration</h4>
+* Creation of a Linux virtual machine by talking to VCenter
+* Deployment of applications (Apache, Nginx, Tomcat, webMethods) utilizing Chef
+* Creation of F5 VIP's, Pool's, and Members
+* Configure applications via JSON
+
+<h4>Screenshots</h4>
+<img src='img/portfolio/praxis_1.png' class='img-responsive img-centered'/>
+<img src='img/portfolio/praxis_2.png' class='img-responsive img-centered'/>
+<img src='img/portfolio/praxis1_1.png' class='img-responsive img-centered'/>
+<img src='img/portfolio/praxis1_2.png' class='img-responsive img-centered'/>
+<img src='img/portfolio/praxis2.png' class='img-responsive img-centered'/>
+<img src='img/portfolio/praxis3.png' class='img-responsive img-centered'/>

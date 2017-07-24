@@ -1,12 +1,20 @@
 ---
 layout: default
+title: F5 Management
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: April 2016
+img: f5mgmt_portfolio.png
+port_img: f5mgmt_frontend1.png
+alt: F5 Management
+project-date: 2016
+client: F5 Administrators
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <h3>Easily manage a single F5 device or multiple devices</h3> 
 
 ---
+Faced with a vendor UI that did not meet the needs of daily user interaction with large groups of instances, I created the F5 Cluster Manager.
+
+<h4>Benefits</h4>
+* Avoid the need to drill down into individual groups to easily see the cluster status of the individual group members
+* Quickly enable/disable group members by dragging your mouse over the members you want to disable/enable
+* Manage group members across multiple F5 devices
