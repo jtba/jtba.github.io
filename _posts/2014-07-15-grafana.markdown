@@ -3,7 +3,7 @@ layout: default
 title: Grafana Dashboards
 modal-id: 4
 date: April 2016
-img: dashboards.png
+img: dashboards_portfolio.png
 port_img: dashboards.png
 alt: Dashboards
 project-date: 2016

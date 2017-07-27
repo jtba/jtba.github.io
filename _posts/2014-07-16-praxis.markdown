@@ -3,7 +3,7 @@ layout: default
 title: Praxis
 modal-id: 3
 date: April 2014
-img: praxis_1.png
+img: praxis_portfolio.png
 port_img: praxis_1.png
 alt: Praxis
 project-date: 2014

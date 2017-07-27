@@ -11,7 +11,7 @@ client: DevOps
 category: Web Development
 description: <h3>All operational tasks in a single application</h3> 
 ---
-Disenchanted by the dozens of applications we had to perform our daily duties, I architected and developed a web application using **Angular** and **PHP** to bring everything my team needed, under a single UI. I guess you could say that I'm lazy, but in a productive way.
+Disenchanted by the dozens of applications we used to perform our daily duties, I architected and developed a web application using **Angular** and **PHP** to bring everything my team needed under a single UI. I guess you could say that I'm lazy, but in a productive way.
 
 <br/><br/>
 <h4>Features</h4>
