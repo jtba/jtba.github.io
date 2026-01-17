@@ -37,7 +37,8 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/jason-baldwin-1791498/
+    url: http://www.linkedin.com/in/
+hellojson
   - title: github
     url: http://github.com/jtba
 
