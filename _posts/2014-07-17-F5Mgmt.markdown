@@ -1,20 +1,21 @@
 ---
 layout: default
-title: F5 Management
+title: Infrastructure Automation
 modal-id: 2
 date: April 2016
 img: f5mgmt_portfolio.png
 port_img: f5mgmt_frontend1.png
-alt: F5 Management
+alt: Infrastructure Automation
 project-date: 2016
-client: F5 Administrators
-category: Web Development
-description: <h3>Easily manage a single F5 device or multiple devices</h3> 
+client: Network Operations
+category: Infrastructure Strategy
+description: <h3>Transforming manual infrastructure management into streamlined automation</h3>
 
 ---
-Faced with a vendor UI that did not meet the needs of daily user interaction with large groups of instances, I created the F5 Cluster Manager.
+Recognized that vendor-provided tooling created friction in daily operations and increased risk during critical traffic management events. Championed the development of purpose-built automation that aligned with operational workflows and business continuity requirements.
 
-<h4>Benefits</h4>
-* Avoid the need to drill down into individual groups to easily see the cluster status of the individual group members
-* Quickly enable/disable group members by dragging your mouse over the members you want to disable/enable
-* Manage group members across multiple F5 devices
+<h4>Strategic Impact</h4>
+* Reduced infrastructure management complexity across distributed load balancer fleet
+* Enabled rapid response during high-traffic events through intuitive bulk operations
+* Improved operational visibility with consolidated cluster status monitoring
+* Decreased human error risk through streamlined interaction patterns
