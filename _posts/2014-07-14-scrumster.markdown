@@ -1,26 +1,25 @@
 ---
 layout: default
-title: Scrumster
+title: Agile Team Performance
 modal-id: 5
-date: Janurary 2017
+date: January 2017
 img: scrumster_portfolio.png
 port_img: scrumster.png
-alt: Scrumster
+alt: Agile Team Performance
 project-date: 2017
-client: Anybody!
-category: Web Development
-description: <h3>Help your team and yourself by using this daily task tracker</h3> 
+client: Engineering Teams
+category: Team Effectiveness
+description: <h3>Driving high-performing teams through visibility and accountability</h3>
 
 ---
-Performing daily stand-ups without discussing what was completed the day prior ignore critical information needed to evaluate how you and your team is performing on a daily basis. The Scrumster application complements your daily stand-up by allowing individuals to thoughtfully determine what their tasks are for the day, and easily keep track of tasks missed.
+Recognized that traditional stand-up practices lacked the data-driven insights needed to optimize team performance. Developed a platform that transforms daily rituals into measurable improvement opportunities, enabling leaders to identify patterns and coach effectively.
 
-<h4>Features</h4>
-* Helps to improve your ability to estimate time taken on tasks and your ability to accomplish them
-* Encourages breaking down user stories into manageable chunks
-* Distinguishes between planned tasks vs unplanned, further enabling managers to determine if outward forces are impacting employees
-* As a manager, improves your one on one's by giving your employees solid stats on their performance
-* As a manager, improves your reporting to upper management by your ability to individually list each employee's accomplishments
-* Promotes high performing teams 
+<h4>Leadership Benefits</h4>
+* Provides quantitative foundation for performance conversations and career development
+* Enables identification of systemic blockers impacting team velocity
+* Distinguishes planned work from interrupt-driven tasks for capacity planning
+* Supports executive reporting with aggregated team accomplishments
+* Establishes culture of continuous improvement and transparency
 
 <h4>Screenshots</h4>
 <img src='img/portfolio/scrumster_1.png' class='img-responsive img-centered'/>

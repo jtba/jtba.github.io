@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Praxis
+title: DevOps Transformation
 modal-id: 3
 date: April 2014
 img: praxis_portfolio.png
 port_img: praxis_1.png
-alt: Praxis
+alt: DevOps Transformation
 project-date: 2014
-client: Development and Operations
-category: Web Development
-description: <h3>Create/Deploy/Configure with a click of a button</h3> 
+client: Development & Operations
+category: Transformation Leadership
+description: <h3>Pioneering the shift from scheduled deployments to continuous delivery</h3>
 
 ---
-Around the time DevOps first became known, I co-developed an application with the goal of allowing any user to easily specify build templates via a GUI which is then handed to a PHP middleware that addresses orchestration.
+Led an early DevOps transformation initiative, bridging the traditional divide between development and operations teams. Established self-service infrastructure provisioning that empowered teams to move from scheduled, manual deployments to on-demand, automated delivery.
 
-<h4>Orchestration</h4>
-* Creation of a Linux virtual machine by talking to VCenter
-* Deployment of applications (Apache, Nginx, Tomcat, webMethods) utilizing Chef
-* Creation of F5 VIP's, Pool's, and Members
-* Configure applications via JSON
+<h4>Transformation Outcomes</h4>
+* Enabled infrastructure-as-code practices across the organization
+* Reduced environment provisioning from days to minutes through automated orchestration
+* Unified compute, load balancing, and application configuration into single workflow
+* Established foundation for continuous delivery pipeline evolution
 
 <h4>Screenshots</h4>
 <img src='img/portfolio/praxis_1.png' class='img-responsive img-centered'/>

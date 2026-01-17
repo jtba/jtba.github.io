@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Grafana Dashboards
+title: Executive Analytics Platform
 modal-id: 4
 date: April 2016
 img: dashboards_portfolio.png
 port_img: dashboards.png
-alt: Dashboards
+alt: Executive Analytics Platform
 project-date: 2016
-client: Operations, Executives, Call Centers
-category: API Development
-description: <h3>The real power of these dashboards are in the hand crafted API's powered by NodeJS</h3> 
+client: Executive Leadership & Operations
+category: Data Strategy
+description: <h3>Delivering real-time business intelligence to drive data-informed decisions</h3>
 
 ---
-I've discovered quick wins by leveraging Grafana and ElasticSearch to graph time series data. This allowed for me to focus on creating several NodeJS services that integrate with various technologies.
+Identified the need for unified business intelligence across executive, operational, and customer-facing teams. Architected a comprehensive analytics platform that aggregated data from disparate enterprise systems into actionable real-time dashboards.
 
-<h4>Integrated Technologies</h4>
-* Oracle
-* Teradata
-* SOAP
-* REST
-* Kafka
+<h4>Strategic Value</h4>
+* Enabled data-driven decision making across all organizational levels
+* Unified fragmented data sources into single source of truth
+* Provided executive leadership with real-time operational visibility
+* Supported call center optimization through live performance metrics
+* Established scalable integration patterns across enterprise data ecosystem
 
 <h4>Screenshots</h4>
 <img src='img/portfolio/dashboards.png' class='img-responsive img-centered'/>

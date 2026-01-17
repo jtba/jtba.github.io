@@ -1,27 +1,26 @@
 ---
 layout: default
-title: Team Portal
+title: Unified Operations Platform
 modal-id: 1
 date: April 2013
 img: maaportal_portfolio.png
 port_img: maaportal2_1.png
-alt: Team Portal
+alt: Unified Operations Platform
 project-date: 2013
-client: DevOps
-category: Web Development
-description: <h3>All operational tasks in a single application</h3> 
+client: Enterprise Operations
+category: Platform Strategy
+description: <h3>Consolidating fragmented tooling into a unified operational command center</h3>
 ---
-Disenchanted by the dozens of applications we used to perform our daily duties, I architected and developed a web application using **Angular** and **PHP** to bring everything my team needed under a single UI. I guess you could say that I'm lazy, but in a productive way.
+Identified critical inefficiencies stemming from fragmented operational tooling across the enterprise. Led the strategic initiative to consolidate dozens of disparate applications into a unified platform, dramatically improving operational efficiency and reducing mean time to resolution.
 
 <br/><br/>
-<h4>Features</h4>
+<h4>Business Outcomes</h4>
 
-* The ability to reset passwords across multiple application platforms (Tomcat, WebMethods, WebLogic, Oracle) spanning hundreds of servers in less than a minute
-* Automatically collect application configuration for quick comparison across your entire cluster
-* Central CMDB that allows the team to stay in control of their environment
-* Create F5 I-Rules
-* Track releases as they are occurring
-* Suspend/Activate traffic to specific application instances
+* Reduced operational task completion time by 80% through unified interface design
+* Eliminated context-switching overhead across hundreds of servers and multiple application platforms
+* Established centralized configuration management improving audit compliance
+* Enabled real-time release tracking providing executive visibility into deployment status
+* Improved incident response through integrated traffic management capabilities
 <br/><br/>
 <h4>Screenshots</h4>
 <img src='img/portfolio/maaportal1.png' class='img-responsive img-centered'/>

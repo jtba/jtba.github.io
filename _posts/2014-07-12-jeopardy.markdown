@@ -1,18 +1,23 @@
 ---
 layout: default
-title: Jeoardy
+title: Team Engagement Platform
 modal-id: 7
 date: April 2016
 img: jeopardy_portfolio.png
 port_img: jeopardy.png
-alt: Jeopardy
+alt: Team Engagement Platform
 project-date: 2017
-client: Anybody!
-category: Web Development
-description: <h3>Quick and Simple Jeopardy Game using HTML/CSS/Angular</h3> 
+client: Team Culture
+category: Leadership & Culture
+description: <h3>Building team culture through interactive engagement experiences</h3>
 
 ---
-Developed overnight to support a team event, the Jeopardy game was a quick way to play amongst 4 teams for the highest score. The game is purely javscript/frontend driven without the need for a backend.
+Developed rapid-deployment engagement tool to foster team collaboration and healthy competition. Demonstrates commitment to building strong team culture and the ability to deliver value quickly when opportunities arise.
+
+<h4>Leadership Philosophy</h4>
+* Strong teams are built through shared experiences and engagement
+* Rapid prototyping skills enable quick response to team needs
+* Investing in culture pays dividends in retention and performance
 
 <h4>Screenshots</h4>
 <img src='img/portfolio/jeopardy.png' class='img-responsive img-centered'/>
